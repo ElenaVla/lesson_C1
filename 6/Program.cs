@@ -1,7 +1,7 @@
-﻿void Pause()//Описание подпрграммы (метода)
+﻿// 6. Написать программу вычисления значения функции y = f(a)
+double F(double a)
 {
-    System.Console.WriteLine(message);
-    Console.ReadKey();
+    return a+1;
 }
 
-Pause("press any key");//Вызов
+System.Console.WriteLine(F(0));

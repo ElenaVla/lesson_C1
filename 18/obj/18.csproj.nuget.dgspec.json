@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Елена\\Desktop\\C#\\05.02.22\\18\\18.csproj": {}
+    "C:\\Users\\Елена\\Desktop\\C# задачи\\18\\18.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Елена\\Desktop\\C#\\05.02.22\\18\\18.csproj": {
+    "C:\\Users\\Елена\\Desktop\\C# задачи\\18\\18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Елена\\Desktop\\C#\\05.02.22\\18\\18.csproj",
+        "projectUniqueName": "C:\\Users\\Елена\\Desktop\\C# задачи\\18\\18.csproj",
         "projectName": "18",
-        "projectPath": "C:\\Users\\Елена\\Desktop\\C#\\05.02.22\\18\\18.csproj",
+        "projectPath": "C:\\Users\\Елена\\Desktop\\C# задачи\\18\\18.csproj",
         "packagesPath": "C:\\Users\\Елена\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Елена\\Desktop\\C#\\05.02.22\\18\\obj\\",
+        "outputPath": "C:\\Users\\Елена\\Desktop\\C# задачи\\18\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Елена\\AppData\\Roaming\\NuGet\\NuGet.Config"
